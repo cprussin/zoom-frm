@@ -6,8 +6,7 @@
 ;; Maintainer: Drew Adams (concat "drew.adams" "@" "oracle" ".com")
 ;; Copyright (C) 2005-2018, Drew Adams, all rights reserved.
 ;; Created: Fri Jan 07 10:24:35 2005
-;; Version: 0
-;; Package-Requires: ((frame-fns "0") (frame-cmds "0"))
+;; Version: 0.0.1
 ;; Last-Updated: Mon Jan  1 16:31:06 2018 (-0800)
 ;;           By: dradams
 ;;     Update #: 344
